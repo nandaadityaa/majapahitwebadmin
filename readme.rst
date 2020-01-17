@@ -15,10 +15,11 @@ Release Information
 *******************
 
 
-
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
+
+Database terdapat di satu file dengan nama file database.sql dan menggunakan mysql
 
 **************************
 Changelog and New Features
