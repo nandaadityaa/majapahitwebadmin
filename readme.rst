@@ -20,8 +20,8 @@ latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
 
 ----------ALERT----------
-Jawaban dari pertanyaan ada di file yang bernama jawab soal
-Database terdapat di satu file dengan nama file database.sql dan menggunakan mysql
+1. Jawaban dari pertanyaan ada di file yang bernama jawab soal
+2. Database terdapat di satu file dengan nama file database.sql dan menggunakan mysql
 ----------ALERT----------
 
 **************************
