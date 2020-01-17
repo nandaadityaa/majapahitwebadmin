@@ -19,7 +19,10 @@ This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
 
+----------ALERT----------
+Jawaban dari pertanyaan ada di file yang bernama jawab soal
 Database terdapat di satu file dengan nama file database.sql dan menggunakan mysql
+----------ALERT----------
 
 **************************
 Changelog and New Features
