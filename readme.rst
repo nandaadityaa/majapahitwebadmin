@@ -22,6 +22,9 @@ latest stable release please visit the `CodeIgniter Downloads
 ----------ALERT----------
 1. Jawaban dari pertanyaan ada di file yang bernama jawab soal
 2. Database terdapat di satu file dengan nama file database.sql dan menggunakan mysql
+3. Import file database dengan nama kpi jika tidak mau ubah config(opsi)
+4. Bisa menamakan dengan nama lain di database tetapi harus ubah config yang ada di file application->config->database.php lalu ubah nama database sesuai dengan nama yang di masukkan.
+5. Akun untuk login : username = nanda.adityaa@gmail.com pass = 12345
 ----------ALERT----------
 
 **************************
